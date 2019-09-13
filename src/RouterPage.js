@@ -23,7 +23,6 @@ export const RouterPage = () => {
                     <Route path="/list/item/:itemId" exact component={Item}></Route>
                     <Route path="/about/" exact component={About}></Route>
                     <Route path="/contacts/" exact component={Contacts}></Route>
-                    <Route path="/contacts-new/" exact component={ContactsNEW}></Route>
                 </Switch>
             </div>
                 
