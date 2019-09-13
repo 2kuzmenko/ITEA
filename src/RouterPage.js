@@ -14,6 +14,7 @@ export const RouterPage = () => {
                     <Link to="/list/item/itemId"> item </Link>
                     <Link to="/contacts"> contacts </Link>
                     <Link to="/about"> about </Link>
+                    <Link to="/about-new-item"> about new item </Link>
                 </div>
                 
                 <Switch>
